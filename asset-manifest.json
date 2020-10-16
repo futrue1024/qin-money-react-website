@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qin-money-react-website/static/css/main.d25282e7.chunk.css",
+    "main.js": "/qin-money-react-website/static/js/main.a9fa8221.chunk.js",
+    "main.js.map": "/qin-money-react-website/static/js/main.a9fa8221.chunk.js.map",
+    "runtime-main.js": "/qin-money-react-website/static/js/runtime-main.14bf7e0c.js",
+    "runtime-main.js.map": "/qin-money-react-website/static/js/runtime-main.14bf7e0c.js.map",
+    "static/js/2.3b2918c6.chunk.js": "/qin-money-react-website/static/js/2.3b2918c6.chunk.js",
+    "static/js/2.3b2918c6.chunk.js.map": "/qin-money-react-website/static/js/2.3b2918c6.chunk.js.map",
+    "index.html": "/qin-money-react-website/index.html",
+    "precache-manifest.b7708d08d8c3e6c58c9a3216279af084.js": "/qin-money-react-website/precache-manifest.b7708d08d8c3e6c58c9a3216279af084.js",
+    "service-worker.js": "/qin-money-react-website/service-worker.js",
+    "static/css/main.d25282e7.chunk.css.map": "/qin-money-react-website/static/css/main.d25282e7.chunk.css.map",
+    "static/js/2.3b2918c6.chunk.js.LICENSE.txt": "/qin-money-react-website/static/js/2.3b2918c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14bf7e0c.js",
+    "static/js/2.3b2918c6.chunk.js",
+    "static/css/main.d25282e7.chunk.css",
+    "static/js/main.a9fa8221.chunk.js"
+  ]
+}
